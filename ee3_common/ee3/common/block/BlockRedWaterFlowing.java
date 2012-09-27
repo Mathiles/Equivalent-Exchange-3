@@ -12,7 +12,7 @@ public class BlockRedWaterFlowing extends BlockFlowing {
         this.blockHardness = 100F;
         this.setLightOpacity(3);
         this.setBlockName("redWaterFlowing");
-        this.setCreativeTab(CreativeTabs.tabDecorations);
+        this.setCreativeTab(CreativeTabs.tabDeco);
     }
 
     @Override
